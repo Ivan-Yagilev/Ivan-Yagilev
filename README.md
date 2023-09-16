@@ -11,6 +11,6 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ivan-Yagilev&theme=shadow_red&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ivan-Yagilev&theme=nord&background=000000)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan-Yagilev&layout=compact&theme=shadow_red&langs_count=3)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan-Yagilev&layout=compact&theme=nord&langs_count=3)
