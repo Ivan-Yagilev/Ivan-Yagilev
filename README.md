@@ -1,4 +1,4 @@
-## Hi there, I'm golang backend developer
+## Hi there, I'm Go backend developer
 
 ### :hammer_and_wrench: Languages and Tools :
 
