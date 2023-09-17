@@ -15,6 +15,6 @@
 ### My Stats :
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ivan-Yagilev&show_icons=true&theme=nord" alt="GitHub Stats" height="215"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan-Yagilev&exclude_repo=Optimization_methods_labs&layout=donut&theme=nord&langs_count=3" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ivan-Yagilev&show_icons=true&theme=nord" alt="GitHub Stats" width="442" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan-Yagilev&exclude_repo=Optimization_methods_labs&layout=donut&theme=nord&langs_count=3" alt="Top Langs" width="300" height="200"/>
 </p>
